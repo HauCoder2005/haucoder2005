@@ -49,6 +49,6 @@ I envision myself architecting platforms that not only handle complex technical 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haucoder2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haucoder2005&layout=compact&langs_count=7&theme=tokyonight&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HauCoder2005&show_icons=true&theme=tokyonight&v=2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HauCoder2005&layout=compact&langs_count=7&theme=tokyonight&v=2"/>
 </div>
