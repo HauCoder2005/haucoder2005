@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Huỳnh Hậu (Codeser) 👋</h1>
 
-<h3 align="center">🚀 Software Developer & Data Enthusiast</h3>
+<h3 align="center">🚀 Software Developer & Data Engineer</h3>
 
 ---
 
